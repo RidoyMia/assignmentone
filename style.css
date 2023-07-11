@@ -1,0 +1,220 @@
+.header-container{
+    display: flex;
+    padding: 50px 100px -0px 100px  !important;
+    background-color: rgba(187, 136, 136, 0.367);
+}
+.header-innersection{
+    width: 50%;
+}
+.header-img{
+    text-align: center;
+}
+.header-content-section{
+  padding: 0px  50px 0px 50px;
+}
+.header-title{
+    font-size: 55px;
+    font-weight: bold;
+}
+.header-paragraph{
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: -20px;
+}
+.button{
+    background-color: rgb(221, 79, 174);
+    border: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    margin-top: 10px;
+
+}
+.header-img img{
+    margin-top: 10px;
+    
+}
+
+/* feather section code  */
+
+.fsection-main-title div{
+    width: 500px;
+    margin: 100px auto 0px auto;
+    text-align: center;
+}
+.fsection-main-title div h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-container{
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+    text-align: center;
+
+}
+.card-section{
+    padding:  50px !important;
+    width: 400px !important;
+}
+
+.card-section div{
+    height: 400px;
+    width: 100% !important;
+    background-color:  rgba(241, 184, 222, 0.851);
+    overflow: hidden;
+    border-radius: 50% 50% 0px 0px;
+}
+.card-section div img{
+    padding: 100px 0px 0px 0px !important;
+    height:300px ;
+
+}
+
+
+
+
+
+.card-sectiontwo{
+    padding:  50px !important;
+    width: 400px !important;
+}
+
+.card-sectiontwo div{
+    height: 400px;
+    width: 100% !important;
+    background-color:  rgba(234, 229, 158, 0.82);
+    overflow: hidden;
+    border-radius: 50% 50% 0px 0px;
+}
+.card-sectiontwo div img{
+    padding: 100px 0px 0px 0px !important;
+    height:300px ;
+
+}
+
+
+
+
+
+.card-sectionthree{
+    padding:  50px !important;
+    width: 400px !important;
+}
+
+.card-sectionthree div{
+    height: 400px;
+    width: 100% !important;
+    background-color:  rgba(241, 189, 193, 0.982);
+    overflow: hidden;
+    border-radius: 50% 50% 0px 0px;
+}
+.card-sectionthree div img{
+    padding: 100px 0px 0px 0px !important;
+    height:300px ;
+
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+
+.signup-section{
+    display: flex;
+    padding: 50px 180px;
+    justify-content: center;
+    text-align: center;
+    background-color:  rgba(187, 136, 136, 0.367);
+}
+.singup-containerone{
+    width: 45%;
+    margin-top: 120px;
+    justify-content: center;
+}
+.singup-containerone h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.off{
+    color: red;
+}
+.singup-containerone p{
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+.signup-container{
+    margin-left: 50px;
+}
+
+.img-container{
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+    text-align: center; 
+}
+.img-card{
+    width: 25%;
+}
+.img-card img{
+    height: 400px;
+    width: 90%;
+    margin: 0px 5px;
+}
+.subscrive-container{
+    margin: 120px;
+    background-image: url("./images/Rectangle\ 9.png");
+    background-position: center !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.subscrive-content{
+    padding: 100px 100px;
+}
+.subscrive-content h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.subscrive-content p{
+    text-align: center;
+    margin-top: -20px;
+}
+.divition{
+    display: flex;
+    padding: 20px 200px;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 70%;
+    height:40px !important;
+    border: none;
+}
+.divition button{
+    margin-top: -2px;
+    margin-left: 5px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px 0px 100px 0px;
+}
+.img-gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+.img-gallery img{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+}
+.flower{
+    text-align: center;
+}
